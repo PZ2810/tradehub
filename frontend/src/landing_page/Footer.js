@@ -8,7 +8,7 @@ function Footer() {
           <div className="col">
             <img src="media/images/logo.svg" style={{ width: "50%" }} />
             <p>
-              &copy; 2010 - 2026, Not Zerodha Broking Ltd. All rights reserved.
+              &copy; 2010 - 2024, Not Zerodha Broking Ltd. All rights reserved.
             </p>
           </div>
           <div className="col">
@@ -53,7 +53,7 @@ function Footer() {
             <br />
           </div>
         </div>
-        <div className="mt-5 text-muted p-5" style={{ fontSize: "12px" }}>
+        <div className="mt-5 text-muted" style={{ fontSize: "14px" }}>
           <p>
             Zerodha Broking Ltd.: Member of NSE​ &​ BSE – SEBI Registration no.:
             INZ000031633 CDSL: Depository services through Zerodha Securities
