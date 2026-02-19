@@ -5,6 +5,7 @@ import Brokerage from './Brokerage';
 function PricingPage() {
     return ( <>
         <Hero />
+        <openAccount />
         <Brokerage />
     </> );
 }
